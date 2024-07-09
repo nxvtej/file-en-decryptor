@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cstring>
 // #include <sys/wait.h>
-#include <./encrypt/Cryption.hpp>
+#include <../encryptDecrypt/src/app/encrypt/Cryption.hpp>
 
 ProcessManagement::ProcessManagement() {}
 
